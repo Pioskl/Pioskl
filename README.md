@@ -1,6 +1,8 @@
 <div align="center">
 
-# Piotr Składowski • Fullstack Software Engineer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Piotr%20Sk%C5%82adowski&fontSize=48&fontAlignY=38&desc=Fullstack%20Software%20Engineer%20%E2%80%A2%20Building%20modern%20products%20that%20scale&descAlignY=58&animation=fadeIn" alt="Header banner" />
+</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+scalable+web+apps+and+business+solutions;From+idea+to+production+with+modern+tech;Clean+code%2C+performance%2C+and+real+impact" alt="Typing intro" />
 
